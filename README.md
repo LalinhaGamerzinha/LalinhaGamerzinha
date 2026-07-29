@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="printable.png" width="100%" alt="Banner">
+  <img src="https://raw.githubusercontent.com/LalinhaGamerzinha/pikachupainel/refs/heads/main/pikagit.png" width="500" alt="Painel Pikachu">
 </p>
 
 <h1 align="center">
