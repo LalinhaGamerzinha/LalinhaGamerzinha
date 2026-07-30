@@ -49,8 +49,7 @@
 </h1>
 
 <h2>
-  Moro em Minas Gerais, tenho 27 anos e sou estudante de Análise e
-  Desenvolvimento de Sistemas (1/5).
+  Atualmente sou estudante de Análise e Desenvolvimento de Sisitemas. Meu foco principal de estudo é o front-end. Eu estudo e me atualizo na área de tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos.
 </h2>
 
 <h2>
