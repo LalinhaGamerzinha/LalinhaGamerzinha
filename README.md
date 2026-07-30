@@ -12,6 +12,9 @@
   <img src="https://github.com/LalinhaGamerzinha/painelescritoanimacao/blob/main/painel2.gif" width="1000">
 </h1>
 
+<h1 align="center">
+  <img src=https://github.com/lalinhagamerzinha/pokemonscorrendo/blob/main/pokemonscorrendo.gif width="1000">
+</h1>
 
 
 ## 🎀 Sobre mim
