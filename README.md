@@ -53,23 +53,15 @@
   Estou sempre estudando, me atualizando e explorando novas tecnologias, pois adoro aprender, criar projetos e transformar meus conhecimentos em novas experiências.
 </h2>
 
-<h2>
-  Futura dev.web e artista digital.
-</h2>
-
-<h1>Autista</h1>
-
-<p align="left">
-  <img
-    src="https://raw.githubusercontent.com/lalinhagamerzinha/simboloautismo/56a48943cd08725f7e140cd96454fa33ac40863b/output-onlinegiftools%20(1).gif"
-    width="200"
-    alt="Símbolo do autismo"
-  >
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LalinhaGamerzinha/LalinhaGamerzinha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LalinhaGamerzinha/LalinhaGamerzinha/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LalinhaGamerzinha/LalinhaGamerzinha/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-## Tecnologias
+<h1>Tecnologias</h1>
 
 <p align="left">
   <img
@@ -85,6 +77,16 @@
 </p>
 
 ---
+
+<h1>Autista</h1>
+
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/lalinhagamerzinha/simboloautismo/56a48943cd08725f7e140cd96454fa33ac40863b/output-onlinegiftools%20(1).gif"
+    width="200"
+    alt="Símbolo do autismo"
+  >
+</p>
 
 <p align="center">
   <img
