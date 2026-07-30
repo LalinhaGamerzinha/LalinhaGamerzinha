@@ -49,7 +49,7 @@
 </h1>
 
 <h2>
-  Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (1/5), com foco principal em desenvolvimento Front-end.
+  Sou estudante de Análise e Desenvolvimento de Sistemas (1/5), com foco principal em desenvolvimento Front-end.
   Estou sempre estudando, me atualizando e explorando novas tecnologias, pois adoro aprender, criar projetos e transformar meus conhecimentos em novas experiências.
 </h2>
 
