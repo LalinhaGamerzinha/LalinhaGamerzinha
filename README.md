@@ -20,9 +20,9 @@
 
 ---
 
-## 🎀 Sobre mim
+<h1>🎀 Sobre mim</h1>
 
-🌸 Moro em Minas Gerais, tenho 27 anos e sou estudante de Análise e Desenvolvimento de Sistemas (1/5).
+Moro em Minas Gerais, tenho 27 anos e sou estudante de Análise e Desenvolvimento de Sistemas (1/5).
 
 💻 Futura dev.web e artista digital.
 
