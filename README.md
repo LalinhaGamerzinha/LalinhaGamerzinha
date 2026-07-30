@@ -8,10 +8,8 @@
   <img src="https://github.com/LalinhaGamerzinha/primeiraanimacao/blob/main/pokebolapika.gif" width="50"> Oiii! Meu nome é Laiza! <img src="https://github.com/LalinhaGamerzinha/primeiraanimacao/blob/main/pokebolapika.gif" width="50">
 </h1>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines= Seja+bem-vindo(a)+ao+meu+perfil!;Atualmente+estudando+HTML.;Criando+coisas+fofas+" />
-</p>
+<h1 align="center">
+  <img src="https://github.com/LalinhaGamerzinha/painelescritoanimacao/blob/main/painel2.gif" width="1000">
 
 
 ## 🎀 Sobre mim
