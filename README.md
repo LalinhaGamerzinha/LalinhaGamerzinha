@@ -49,7 +49,8 @@
 </h1>
 
 <h2>
-  Estudante de Análise e Desenvolvimento de Sistemas (1/5), com foco principal em desenvolvimento Front-end.
+  Estudante de Análise e Desenvolvimento de Sistemas (1/5), com foco principal em desenvolvimento Front-end
+  Aprendendo PIXEL ART
 </h2>
 
 <picture align="center">
