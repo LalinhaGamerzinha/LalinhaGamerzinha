@@ -25,7 +25,9 @@
 
 Autista
 
-<img src="04.png" height="100">
+<p align="left">
+  <img src="https://i.redd.it/0e1q8o5cfns61.gif" width="200">
+</p>
 
 ---
 
@@ -33,6 +35,10 @@ Autista
 
 <p>
 <img src="https://skillicons.dev/icons?i=html"/>
+</p>
+
+<p>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/archive/6/69/20231108190719%21Logo_Aseprite.svg/60px-Logo_Aseprite.svg.png>
 </p>
 
 <p align="center">
