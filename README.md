@@ -51,7 +51,7 @@ Autista
 ╰──────────────୨୧──────────────╯
 
 <p align="center">
-  🌸 Obrigada pela visita! 🌸
+    Obrigada pela visita! 
 </p>
 
 <p align="center">
