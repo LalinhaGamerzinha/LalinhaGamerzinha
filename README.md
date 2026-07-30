@@ -10,6 +10,8 @@
 
 <h1 align="center">
   <img src="https://github.com/LalinhaGamerzinha/painelescritoanimacao/blob/main/painel2.gif" width="1000">
+</h1>
+
 
 
 ## 🎀 Sobre mim
@@ -28,6 +30,10 @@ Autista
 
 <p>
 <img src="https://skillicons.dev/icons?i=html"/>
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/14F2_e6M_iYAAAAd/fire-pokemon.gif" width="300" alt="Pokémon usando fogo">
 </p>
 
 
