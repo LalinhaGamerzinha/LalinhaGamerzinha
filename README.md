@@ -45,16 +45,18 @@ Autista
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/14F2_e6M_iYAAAAd/fire-pokemon.gif" width="300" alt="Pokémon usando fogo">
-</p>
-
-╰──────────────୨୧──────────────╯
-
-<p align="center">
-    Obrigada pela visita! 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc4MDhyZGNvNWdvemhnbnBrYzd2MGt2cjQwdmpxZmJ3NGJ0dWxhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJG93okDlbbMSWreuz/giphy.gif" width="300" alt="Pokémon usando fogo">
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8AFCF&height=120&section=footer">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=28&color=F8AFCF&center=true&vCenter=true&width=400&lines=Obrigada+pela+visita!">
+</p>
+
+
+╰──────────────────────────────────────────୨୧──────────────────────────────────────────╯
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lalinhagamerzinha/gramapixel/0042c8fadf41dd1fa0311324fab288a7497004ff/grama.gif">
 </p>
 
