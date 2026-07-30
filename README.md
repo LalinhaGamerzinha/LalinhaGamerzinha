@@ -26,10 +26,12 @@
 
 💻 Futura dev.web e artista digital.
 
-Autista
+<h1>
+  Autista
+</h1>
 
 <p align="left">
-  <img src="https://i.redd.it/0e1q8o5cfns61.gif" width="200">
+  <img src="https://raw.githubusercontent.com/lalinhagamerzinha/simboloautismo/56a48943cd08725f7e140cd96454fa33ac40863b/output-onlinegiftools%20(1).gif" width="200">
 </p>
 
 ---
